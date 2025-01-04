@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm RSANTTOS89</h1>
+<h1 align="left">Hi 👋, I'm RSANTTOS</h1>
 
 👀 I'm interested in React Native and I'm passionate about Full Stack mobile development.
 
